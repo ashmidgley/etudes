@@ -1,0 +1,18 @@
+. EEEE xxxx
+y SEWN x.!y
+x WEEE !!!!
+! NWES .yx!
+20
+# 20 0
+
+y SEWN x.!y
+. EEEE xxxx
+x WEEE !!!!
+20
+# -7 -1
+
+b ENSS cbab
+c SSSS aaaa
+20
+# 10 10
+

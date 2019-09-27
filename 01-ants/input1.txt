@@ -1,0 +1,15 @@
+#Foo
+. NNNN ....
+100
+
+. NNNN ....
+1000
+
+#Foo
+w ESWN bbbb
+b WNES wwww
+100
+
+#Foo
+
+
