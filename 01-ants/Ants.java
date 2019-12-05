@@ -3,7 +3,7 @@ package ants;
 
 import java.util.ArrayList;
 import java.util.*;
-import java.util.List;;
+import java.util.List;
 import java.io.*;
 import java.awt.Point;
 
